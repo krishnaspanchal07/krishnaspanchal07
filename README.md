@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi 👋 I'm Krishna Panchal
 
-<!--
-**krishnaspanchal07/krishnaspanchal07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc ECS Student  
+💻 Learning Python Programming  
+📊 Interested in Data Science  
 
-Here are some ideas to get you started:
+## Currently Learning
+- Python
+- Git & GitHub
+- Data Science Basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Goal
+To build useful software projects and improve programming skills.
