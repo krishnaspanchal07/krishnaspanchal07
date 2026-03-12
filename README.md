@@ -4,10 +4,24 @@
 💻 Learning Python Programming  
 📊 Interested in Data Science  
 
-## Currently Learning
+## 🚀 Skills
 - Python
+- HTML
+- CSS
+- PHP
+- MySQL
 - Git & GitHub
-- Data Science Basics
 
-## Goal
-To build useful software projects and improve programming skills.
+## 🌱 Currently Learning
+- Python
+- Data Science
+- Pandas
+- Git & GitHub
+
+## 📂 Projects
+- Customer Churn Prediction
+- Clinic Management System
+- Gym Supplementary Products
+
+## 🎯 Goal
+Always learning, building, and improving my coding skills.
