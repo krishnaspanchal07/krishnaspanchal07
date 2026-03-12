@@ -1,8 +1,11 @@
 # Hi 👋 I'm Krishna Panchal
 
 🎓 BSc ECS Student  
-💻 Learning Python Programming  
-📊 Interested in Data Science  
+💻 Python Developer  
+📊 Aspiring Data Scientist  
+📍 Pune, India  
+
+---
 
 ## 🚀 Skills
 - Python
@@ -10,18 +13,30 @@
 - CSS
 - PHP
 - MySQL
-- Git & GitHub
-
-## 🌱 Currently Learning
-- Python
-- Data Science
 - Pandas
 - Git & GitHub
 
+---
+
+## 🌱 Currently Learning
+- Python Programming
+- Data Science
+- Pandas
+- Machine Learning Basics
+
+---
+
 ## 📂 Projects
-- Customer Churn Prediction
 - Clinic Management System
-- Gym Supplementary Products
+- Customer Churn Prediction
+- Gym Supplementary Products Website
+- Python Calculator (Coming Soon)
+
+---
 
 ## 🎯 Goal
-Always learning, building, and improving my coding skills.
+To become a skilled Data Scientist and build impactful real-world software projects.
+
+---
+
+⭐ Always learning and improving my coding skills.
